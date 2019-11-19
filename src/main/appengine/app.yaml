@@ -1,0 +1,11 @@
+application: ski-data-api-project
+version: 1
+runtime: java
+env: flex
+
+automatic_scaling:
+  min_instances: 1
+  max_instances: 50
+  target_cpu_utilization: 0.8
+  target_throughput_utilization: 0.95
+  max_concurrent_requests: 20

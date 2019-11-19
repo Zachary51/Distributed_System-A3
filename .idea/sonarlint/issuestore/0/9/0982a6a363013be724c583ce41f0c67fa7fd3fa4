@@ -1,0 +1,15 @@
+
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ζθ•8¨φόμη-
+gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¥ζθ•8¨φόμη-
+hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(”°ύΨϊÿÿÿÿ8¨φόμη-
+psquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ςµ‚ϊÿÿÿÿ8¨φόμη-
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(¤ςª£8¨φόμη-
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8¨φόμη-
+psquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(•ϊΉώÿÿÿÿ8¨φόμη-
+ksquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ΌγΖΰ8¨φόμη-
+jsquid:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(¶΄ 8¨φόμη-
+Ssquid:S2589"7Remove this expression which always evaluates to "true"(¤ςª£8¨φόμη-
+Dsquid:S1148"#Use a logger to log this exception.(€ΙΤ…ύÿÿÿÿ8¨φόμη-
+hsquid:S2095"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ε¥Νσÿÿÿÿÿ8¨φόμη-
+nsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…·Ξ’8¨φόμη-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(…·Ξ’8¨φόμη-

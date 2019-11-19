@@ -1,0 +1,8 @@
+
+7squid:S3626"Remove this redundant jump.(ϋΑέ…8ε‘΅νη-
+lsquid:UselessImportCheck">Remove this unused import 'com.google.gson.annotations.Since'.(Ύ£™όÿÿÿÿ8ª νη-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®ν·8ε‘΅νη-
+ysquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ρΐ“Ίÿÿÿÿÿ8ª νη-
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(οτ†ϊÿÿÿÿ8ª νη-
+ysquid:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(Ϊς•νψÿÿÿÿ8ª νη-
+Isquid:S1989"(Add a "try/catch" block for "getWriter".(οτ†ϊÿÿÿÿ8ΑΉ¨νη-
